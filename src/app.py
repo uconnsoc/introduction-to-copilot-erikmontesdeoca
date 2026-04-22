@@ -77,6 +77,51 @@ activities = {
     }
 }
 
+# Add more sports activities
+activities["Tennis Club"] = {
+    "description": "Learn tennis techniques and compete in matches",
+    "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+    "max_participants": 14,
+    "participants": ["noah@mergington.edu"]
+}
+
+activities["Volleyball Team"] = {
+    "description": "Train and compete in volleyball tournaments",
+    "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+    "max_participants": 18,
+    "participants": ["grace@mergington.edu", "jackson@mergington.edu"]
+}
+
+# Add more artistic activities
+activities["Music Club"] = {
+    "description": "Play instruments and perform in concerts",
+    "schedule": "Mondays and Fridays, 4:00 PM - 5:00 PM",
+    "max_participants": 20,
+    "participants": ["emma@mergington.edu"]
+}
+
+activities["Photography Club"] = {
+    "description": "Learn photography techniques and showcase your work",
+    "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+    "max_participants": 15,
+    "participants": ["lucas@mergington.edu", "mia@mergington.edu"]
+}
+
+# Add more intellectual activities
+activities["Robotics Club"] = {
+    "description": "Build and program robots for competitions",
+    "schedule": "Fridays, 3:30 PM - 5:30 PM",
+    "max_participants": 16,
+    "participants": ["sophia@mergington.edu", "aiden@mergington.edu"]
+}
+
+activities["Math Club"] = {
+    "description": "Solve challenging math problems and compete in math competitions",
+    "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+    "max_participants": 20,
+    "participants": ["benjamin@mergington.edu"]
+}
+
 
 @app.get("/")
 def root():
