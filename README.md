@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MAwEqG5y)
 # Getting Started with GitHub Copilot
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
@@ -9,7 +8,7 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/uconnsoc/uconnsoc-classroom-cse1010-introduction-to-copilot-getting-started-with-github-copilot/issues/1)
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/uconnsoc/introduction-to-copilot-erikmontesdeoca/issues/1)
 
 ---
 
